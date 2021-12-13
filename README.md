@@ -1,2 +1,2 @@
-# pendaftaran-siswa
-PHP dan MySQL: Membuat Aplikasi CRUD [Studi Kasus Pendaftaran Siswa Baru]
+# PASSWORD MANAGER
+JAVA and MYSQL : Membuat password manager menggunakan MYSQL (XAMPP) dan JAVA GUI
